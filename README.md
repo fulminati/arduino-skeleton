@@ -1,6 +1,10 @@
-# arduino-skeleton
+# Arduino Skeleton
+Start your Arduino project in the best possible way, start avoiding duplicate sample projects.
 
 ## Get Started
+```
+$ npm install -g arduinodk
+```
 
 ### Create your project
 ```
