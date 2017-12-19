@@ -1,4 +1,8 @@
 # Arduinodk sketch file
 
-name: Main
+name: ArduinoSkeleton
 arduino: /home/francesco/Develop/Studio/arduino-1.8.5/arduino
+
+require:
+- fulminati/helpers: master
+- fulminati/class-framework: master
